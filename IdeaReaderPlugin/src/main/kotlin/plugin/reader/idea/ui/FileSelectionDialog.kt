@@ -22,8 +22,8 @@ class FileSelectionDialog(private val project: Project) : JFrame("File reader") 
     }
 
     fun open() {
-        preferredSize = Dimension(500, 263)
-        isResizable = false
+        preferredSize = Dimension(500, 300)
+//        isResizable = false
         pack()
         setLocationRelativeTo(null)
         isVisible = true
@@ -62,8 +62,7 @@ class FileSelectionDialog(private val project: Project) : JFrame("File reader") 
         val fileContentArea = JTextArea(10, 40)
 
         runBtn.addActionListener {
-            val filePath = filePathArea.text
-            callTask(project, fileContentArea, filePath)
+            callTask(project, fileContentArea, filePathArea)
         }
 
         fileContentArea.isEnabled = false

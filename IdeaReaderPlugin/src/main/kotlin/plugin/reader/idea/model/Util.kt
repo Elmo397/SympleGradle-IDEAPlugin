@@ -5,7 +5,7 @@ import org.gradle.tooling.GradleConnector
 import java.io.File
 import javax.swing.JTextArea
 
-fun callTask(project: Project, textArea: JTextArea, filePath: String) {
+fun callTask(project: Project, fileContentArea: JTextArea, filePathArea: JTextArea) {
     val connector = GradleConnector.newConnector()
     connector.forProjectDirectory(File(project.basePath!!))
 
@@ -13,7 +13,8 @@ fun callTask(project: Project, textArea: JTextArea, filePath: String) {
     val build = connection.newBuild()
 
     build.forTasks("readerPlugin")
-    build.addArguments(filePath)
-    build.setStandardOutput(DialogOutputStream(textArea))
+    build.setStandardInput(DialogInputStream(filePathArea))
+    build.setStandardOutput(DialogOutputStream(fileContentArea))
+    build.setStandardError(DialogOutputStream(fileContentArea))
     build.run()
 }
