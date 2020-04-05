@@ -1,0 +1,19 @@
+<idea-plugin>
+    <id>org.test-task.IdeaReaderPlugin</id>
+    <name>File Reader</name>
+    <vendor email="m.elnara.397@gmail.com">Elnara Mamedova</vendor>
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+    </extensions>
+
+    <actions>
+
+        <action id="plugin.reader.idea.action.FileReaderAction" class="plugin.reader.idea.action.FileReaderAction"
+                text="FileRader">
+            <add-to-group group-id="ToolsMenu" anchor="first"/>
+        </action>
+    </actions>
+</idea-plugin>

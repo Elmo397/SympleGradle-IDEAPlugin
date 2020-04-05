@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3cc4ef6-07f4-4791-868e-a54aad5b54ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleReaderPlugin" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleReaderPlugin" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleReaderPlugin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GradleReaderPlugin" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1a8FEIF9sdyfLJ15gdvlVDM3cEa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle tasks" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.GradleReaderPlugin [jar]">
+    <configuration name="GradleReaderPlugin [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GradleReaderPlugin [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GradleReaderPlugin [tasks]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="tasks" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GradleReaderPlugin [validateTaskProperties]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="validateTaskProperties" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GradleReaderPlugin" type="GradleRunConfiguration" factoryName="Gradle" nameIsGenerated="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="readerPlugin" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.GradleReaderPlugin" />
+      <item itemvalue="Gradle.GradleReaderPlugin [jar]" />
+      <item itemvalue="Gradle.GradleReaderPlugin [tasks]" />
+      <item itemvalue="Gradle.GradleReaderPlugin [validateTaskProperties]" />
+      <item itemvalue="Gradle.GradleReaderPlugin [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GradleReaderPlugin [clean]" />
+        <item itemvalue="Gradle.GradleReaderPlugin [tasks]" />
+        <item itemvalue="Gradle.GradleReaderPlugin [validateTaskProperties]" />
+        <item itemvalue="Gradle.GradleReaderPlugin [jar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3cc4ef6-07f4-4791-868e-a54aad5b54ce" name="Default Changelist" comment="" />
+      <created>1586109200252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586109200252</updated>
+      <workItem from="1586109204720" duration="3389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586112207911">
+      <screen x="0" y="28" width="1920" height="989" />
+    </state>
+    <state x="255" y="129" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.989/1920.0.1366.768@0.28.1920.989" timestamp="1586112207911" />
+    <state x="2079" y="311" width="1038" height="153" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586109278472">
+      <screen x="1920" y="0" width="1366" height="768" />
+    </state>
+    <state x="2079" y="311" width="1038" height="153" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.28.1920.989/1920.0.1366.768@1920.0.1366.768" timestamp="1586109278472" />
+    <state width="1874" height="490" key="GridCell.Tab.0.bottom" timestamp="1586112601312">
+      <screen x="0" y="28" width="1920" height="989" />
+    </state>
+    <state width="1874" height="490" key="GridCell.Tab.0.bottom/0.28.1920.989/1920.0.1366.768@0.28.1920.989" timestamp="1586112601312" />
+    <state width="1320" height="181" key="GridCell.Tab.0.bottom/0.28.1920.989/1920.0.1366.768@1920.0.1366.768" timestamp="1586109479312" />
+    <state width="1874" height="490" key="GridCell.Tab.0.center" timestamp="1586112601311">
+      <screen x="0" y="28" width="1920" height="989" />
+    </state>
+    <state width="1874" height="490" key="GridCell.Tab.0.center/0.28.1920.989/1920.0.1366.768@0.28.1920.989" timestamp="1586112601311" />
+    <state width="1320" height="181" key="GridCell.Tab.0.center/0.28.1920.989/1920.0.1366.768@1920.0.1366.768" timestamp="1586109479312" />
+    <state width="1874" height="490" key="GridCell.Tab.0.left" timestamp="1586112601311">
+      <screen x="0" y="28" width="1920" height="989" />
+    </state>
+    <state width="1874" height="490" key="GridCell.Tab.0.left/0.28.1920.989/1920.0.1366.768@0.28.1920.989" timestamp="1586112601311" />
+    <state width="1320" height="181" key="GridCell.Tab.0.left/0.28.1920.989/1920.0.1366.768@1920.0.1366.768" timestamp="1586109479312" />
+    <state width="1874" height="490" key="GridCell.Tab.0.right" timestamp="1586112601311">
+      <screen x="0" y="28" width="1920" height="989" />
+    </state>
+    <state width="1874" height="490" key="GridCell.Tab.0.right/0.28.1920.989/1920.0.1366.768@0.28.1920.989" timestamp="1586112601311" />
+    <state width="1320" height="181" key="GridCell.Tab.0.right/0.28.1920.989/1920.0.1366.768@1920.0.1366.768" timestamp="1586109479312" />
+    <state x="624" y="236" width="672" height="677" key="run.anything.popup" timestamp="1586111935339">
+      <screen x="0" y="28" width="1920" height="989" />
+    </state>
+    <state x="624" y="236" width="672" height="677" key="run.anything.popup/0.28.1920.989/1920.0.1366.768@0.28.1920.989" timestamp="1586111935339" />
+  </component>
+</project>
